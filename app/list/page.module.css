@@ -1,0 +1,13 @@
+.food {
+    margin: 200px auto;
+    width: 200px;
+    background: #ffffff;
+    color: #000000;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.foodImg {
+    width: 100%;
+    height: auto;
+}
